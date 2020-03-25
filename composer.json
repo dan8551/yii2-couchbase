@@ -1,14 +1,14 @@
 {
-    "name": "matrozov/yii2-couchbase",
+    "name": "dan8551/yii2-couchbase",
     "description": "Couchbase extension for the Yii framework with ActiveRecord, QueryBuilder and Migration support.",
     "keywords": ["yii2", "couchbase", "active-record"],
     "type": "yii2-extension",
-    "homepage": "https://github.com/matrozov/yii2-couchbase",
+    "homepage": "https://github.com/dan8551/yii2-couchbase",
     "license": "MIT",
     "authors": [
         {
-            "name": "Matrozov Oleg",
-            "email": "oleg.matrozov@gmail.com"
+            "name": "Daniel Orton",
+            "email": "dan.orton84@gmail.com"
         }
     ],
     "require": {
